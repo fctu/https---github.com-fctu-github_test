@@ -16,7 +16,7 @@
 #include <d3d11_1.h>
 #include <directxcolors.h>
 #include "resource.h"
-
+//fctu
 using namespace DirectX;
 
 //--------------------------------------------------------------------------------------
